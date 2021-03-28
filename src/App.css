@@ -30,3 +30,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+.recipes-box {
+  background: beige;
+  column-rule-color: blanchedalmond;
+}
